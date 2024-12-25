@@ -7,8 +7,12 @@ We are a passionate team dedicated to helping parents navigate the digtal world 
 # Why *SafeTrack*?
 *SafeTrack* stands out as a comprehensive solution designed to give parents peace of mind while empowering children to navigate the digital world responsibly. With our innovative app, you can monitor your child’s online activity, promote healthy habits, and access expert-led educational resources—all in one place. SafeTrack isn’t just about safety; it’s about building trust, fostering communication, and ensuring a balanced and positive online experience for the whole family.
 
-# Features
+# Features of the app
 
+1. Educational videos about children's online safety for parents
+2. Content filtering
+3. Screen-time control
+4. 
 
 # How to use?
 # Team behind *SafeTrack*
